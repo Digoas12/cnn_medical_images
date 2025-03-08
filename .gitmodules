@@ -1,0 +1,3 @@
+[submodule "masks"]
+	path = masks
+	url = https://github.com/Digoas12/private_cnn_infos.git
