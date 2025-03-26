@@ -17,7 +17,7 @@
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Desenvolvedor do Projeto](#pessoas-desenvolvedoras)
 
 # Descrição do Projeto
 
@@ -48,7 +48,7 @@ Foi utilizado como dataset de imagens o Sunnybrook Cardiac Data, da Cardiac Atla
 
 # Acesso ao Projeto
 
-O projeto principal, imagens .TIF e alguns gráficos estão disponíveis publicamente. Para mais detalhes sobre os processos de Pré-Processamento e criação das máscaras, assim como algumas funções de criação, peço que entrem em contato para solicitar o acesso. 
+O projeto principal, imagens .TIF e alguns gráficos estão disponíveis publicamente, e podem ser acessados via Google Colab através do arquivo .pynb. Para mais detalhes sobre os processos de Pré-Processamento e criação das máscaras, assim como algumas funções de criação, peço que entrem em contato para solicitar o acesso. 
 
 # Tecnologias Utilizadas
 
